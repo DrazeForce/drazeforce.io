@@ -1,6 +1,4 @@
-﻿# [drazeforce.io](https://drazeforce.vercel.app/)
-
-# My Portfolio Website
+# My [Portfolio](https://drazeforce.vercel.app/) Website
 
 ![Vite](https://img.shields.io/badge/Vite-3A3A3A?style=for-the-badge&logo=vite&logoColor=FFD700)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DrazeForce/DrazeForce.io?style=for-the-badge)
